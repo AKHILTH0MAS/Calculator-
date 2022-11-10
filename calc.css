@@ -1,8 +1,32 @@
-.button{
- float: left;    
- padding: 40px;
+.table1{
+    background-color: brown;
+    padding: 20px 20px 20px 20px;
 }
-.button_0{
-    float: left;
-    padding-left: 40px;
+table{
+    border: 1px solid black;
+    margin: auto;
+
+}
+h1{
+    padding: 20px 600px;
+    color: rgb(242, 247, 245);
+}
+body{
+    background-color: grey;
+}
+input[type="text"]{
+    padding: 10px 20px;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+input[type="button"]{
+    padding: 10px 20px;
+    font-size: large;
+    font-weight: bold;
+    width: 100%;
+    border-radius: 5px;
+    background-color: bisque;
 }
