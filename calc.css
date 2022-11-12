@@ -1,9 +1,10 @@
 .table1{
-    background-color: brown;
+    background-color: rgba(2, 2, 7, 0.904);
     padding: 20px 20px 20px 20px;
+    box-shadow: 5px 8px #200242;
 }
 table{
-    border: 1px solid black;
+    border: 1px solid rgba(55, 93, 218, 0.623);
     margin: auto;
 
 }
@@ -12,7 +13,7 @@ h1{
     color: rgb(242, 247, 245);
 }
 body{
-    background-color: grey;
+    background-color: rgb(8, 4, 73);
 }
 input[type="text"]{
     padding: 10px 20px;
